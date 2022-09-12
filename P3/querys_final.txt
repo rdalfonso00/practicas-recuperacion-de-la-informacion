@@ -1,0 +1,65 @@
+1  | article exist deal tss time sharing system anoperating system ibm computer | richard alexander comp serv langmuir lab tss
+2  | interested article written prieve udo pooch aprieve pooch | richard alexander comp serv langmuir lab author pooch prieve
+3  | intermediate language construction multi targeted compiler tcoll | donna bergmark comp serv uris hall intermed lang
+4  | interested mechanism communicating disjoint process possibly exclusively distributed environment wouldrather description complete mechanism implementation opposed theoretical work abstract problem remote procedurecalls message passing example interest | pavel curtis comm mech disjoint process
+5  | paper design implementation editing interface window manager command interpreter essential issue arehuman interface design view improvement user efficiency effectiveness satisfaction | pavel curtis editing interface
+6  | interested article robotics motion planning thegeometric combinatorial aspect interested thedynamics arm motion | john hopcroft robotics
+7  | interested distributed algorithm concurrent program inwhich process communicate synchronize message passing area interest include fault tolerance techniquesfor understanding correctness algorithm | fred schneider dist algorithm
+8  | addressing scheme resource network resource addressing innetwork operating system | alison brown addr network
+9  | security consideration local network network operating system distributed system | alison brown security network
+10  | parallel language language parallel computation | alec grimison comp serv uris hall parallel lang
+11  | setl high level language | alec grimison setl high level lang
+12  | portable operating system | ralph johnson portable op sys
+13  | code optimization space efficiency | ralph johnson code opt space
+14  | find discussion optimal implementation sort algorithm fordatabase management application | kenneth wilson physic newman lab sort database
+15  | find discussion horizontal microcode optimization specialemphasis optimization loop global optimization | kenneth wilson horizontal microcode opt
+16  | find description handling operating system based onmultiple process message passing | kenneth wilson handling dist sys
+17  | optimization intermediate machine code | donna bergmark opt intermediate code
+18  | language compiler parallel processor especially highlyhorizontal microcoded machine code compaction | donna bergmark lang parallel proc
+19  | parallel algorithm | chanderjit bajaj parallel algorithm
+20  | graph theoretic algorithm applicable sparse matrix | chanderjit bajaj graph alg sparce matrix
+21  | computational complexity intractability class complete reduction algorithm efficiency | jim mildrew sep query comp complex intract red alg eff
+22  | interested hidden line hidden surface algorithm forcylinders toroid sphere cone specializedtopic computer graphic | wally dietrich hidden line surf alg
+23  | distributed computing structure algorithm | ozalp babaoglu dist comp struct alg
+24  | applied stochastic process | ozalp babaoglu appl stochastic proc
+25  | performance evaluation modelling computer system | ozalp babaoglu perf eval
+26  | concurrency control mechanism operating system | ozalp babaoglu concurrency control
+27  | memory management aspect operating system | ozalp babaoglu memory management
+28  | information packet radio network interest arealgorithms packet routing dealing innetwork topography interested hardware thenetwork | dean jagels packet radio net
+29  | number theoretic algorithm especially involving prime number series sieve chinese remainder theorem | paul pritchard num theoretic alg
+30  | article text formatting system including youget system example nroff scribe bravo | dean krafft text formatters
+31  | find article describing singular decompositionin digital image processing application include finding approximationsto original image restoring image subject noise anarticle subject andrew patterson outer productexpansions digital image processing american mathematicalmonthly vol aandrews patterson | bengt aspvall sing decomp
+32  | find article describing graph algorithm based onthe eigenvalue decomposition singular decomposition theajacency matrix graph especially interested heuristicalgorithms graph coloring graph isomorphism method | bengt aspvall graph alg eigenvalue decomp
+33  | article sensitivity eigenvalue decomposition realmatrices matrix especially interested inthe separation eigenspaces distinct eigenvalue article subject davis kahn rotation eigenvectors permutation siam numerical analysis vol stewart errorbounds approximate invariant subspace closed linear operator siam numerical analysis vol adavis kahn stewart | bengt aspvall sen eigenval decomp real matrix
+34  | interested isolation root polynomial oldarticle heindel acm vol findmore recent material aheindel | gaby bracha isolation root polynomial
+35  | probabilistic algorithm especially dealing algebraic andsymbolic manipulation example rabiin probabilistic algorithm finite field siamwaztch probabilistic testing polynomial identity siam arabin | gaby bracha prob alg
+36  | fast algorithm context free language recognition parsing | juris hartmanis fast alg lang recog parsing
+37  | article describing relationship data type concurrency type process synchronization attempt process type correct message passing system thereany notion type message check senderof message receiver treating bit stream someparticular type | hal perkins comp sci cornell
+38  | type module don want entire literature onabstract data type sure phrase avoid interested question check module match context | hal perkins
+39  | type compatibility mean language allow programmerdefined type want restrict extensible languagesthat allow definition abstract data type programmer supplieddefinitions operator | hal perkins
+40  | list article dealing data type language pascal clu alphard russell ada algol el1 list languagesthat referenced frequently paper language catchany language interesting type structure missed | hal perkins
+41  | theory distributed system database subtopics specialinterest include reliability fault tolerance distributed system atomicity distributed transaction synchronization algorithm resource allocation lower bound model asynchronous parallelsystems theory communicating process protocol | michael fischer computer sci yale univ hillhouse ave box yale station haven conn
+42  | computer performance evaluation technique pattern recognitionand clustering | george cross lousiana state univ comp sci dept baton rouge la
+43  | analysis perception shape human computer shapedescriptions shape recognition computer dimensional shape measure circularity shape matching | george cross
+44  | texture analysis computer digitized texture analysis texturesynthesis perception texture | george cross
+45  | operation research model optimize information systemperformance includes fine tuning decision secondary indexselection reorganization distributed database | donald kraft louisiano state univ comp sci
+46  | application fuzzy subset theory clustering informationretrieval problem includes performance evaluation automaticindexing consideration | donald kraft
+47  | bayesian decision model optimize information retrievalsystem performance includes stopping rule determine auser cease scanning output retrieval search | donald kraft
+48  | computer science principle data structure numerical method generating optimization linear programming algorithm includes issue khachian russian ellipsoidal algorithm complexity algorithm | donald kraft
+49  | role information retrieval knowledge based system expert system | donald kraft
+50  | parallel processor information retrieval | walter rudd louisiana state univ comp sci
+51  | parallel processor paging algorithm | walter rudd
+52  | modelling simulation agricultural ecosystem | walter rudd
+53  | mathematical induction group theory integer modulo probability binomial coefficient binomial theorem homomorphism morphism transitivity relation relation matrix | mattson jr school computer information science syracuse university link hall syracuse
+54  | semantics programming language including abstract specificationsof data type denotational semantics proof correctness ahoare dijkstra | michael arbib dept computer information science university massachusetts amherst ma
+55  | dealing star height regular language regularexpressions regular event | maura flatley comp sci cornell
+56  | article relation algebraic theory semigroups monoidsto study automaton regular language | maura flatley
+57  | abstract article backus programming liberated von neumann style functional style algebra program cacm de millo lipton perlis letter acm forum cacm abackus de millo lipton perlis | maura flatley comp sci cornell
+58  | algorithm statistical package anova regression leastsquares generalized linear model system design capability statistical formula interest student test wilcoxon andsign test multivariate univariate component included | ed fox
+59  | dictionary construction accessing method fast retrievalof word lexical item morphologically related information hashing indexing method applied english spelling ornatural language problem | ed fox
+60  | hardware software relating database management system database package back end computer special associative hardwarewith microcomputer attached disk head thing rap relational network codasyl hierarchical model systemslike system ims adabas total | ed fox
+61  | information retrieval article gerard salton clustering bibliographic coupling citation citation vectorspace model boolean search method inverted feedback asalton | ed fox
+62  | result relating parallel complexity theory pram anduniform circuit | mark krentel comp sci cornell
+63  | algorithm parallel computation especially comparisonsbetween parallel sequential algorithm | mark krentel
+64  | list article el1 ecl el1 el don tremember | hal perkins comp sci cornell
+
