@@ -93,7 +93,7 @@ print(deciles)
 # Se optará por eliminar solamente las palabras con 1 ocurrencia en el vocabulario.
 
 # %%
-reduced_words = {k: v for k, v in c.items() if v == 1}
+reduced_words = {k: v for k, v in c.items() if v != 1}
 print(len(reduced_words))
 print("We deleted " + str(len(labels) - len(reduced_words)) + " words from the vocabulary")
 
