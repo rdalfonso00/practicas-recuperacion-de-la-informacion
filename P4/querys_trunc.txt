@@ -1,0 +1,65 @@
+1  | articl exist deal tss time share system oper system ibm comput
+2  | interest articl written priev udo pooch priev pooch
+3  | intermedi languag construct multi target compil tcoll
+4  | interest mechan commun disjoint process possibl exclus distribut environ descript complet mechan implement oppos theoret work abstract problem remot procedur call messag pass exampl interest
+5  | paper design implement edit interfac window manag command interpret essenti issu human interfac design view improv user effici effect satisfact
+6  | interest articl robot motion plan geometr combinatori aspect interest dynam arm motion
+7  | interest distribut algorithm concurr program process commun synchron messag pass area interest includ fault toler techniqu understand correct algorithm
+8  | address scheme resourc network resourc address network oper system
+9  | secur consider local network network oper system distribut system
+10  | parallel languag languag parallel comput
+11  | setl high level languag
+12  | portabl oper system
+13  | code optim space effici
+14  | find discuss optim implement sort algorithm databas manag applic
+15  | find discuss horizont microcod optim special emphasi optim loop global optim
+16  | find descript handl oper system base multipl process messag pass
+17  | optim intermedi machin code
+18  | languag compil parallel processor especi highli horizont microcod machin code compact
+19  | parallel algorithm
+20  | graph theoret algorithm applic spars matric
+21  | comput complex intract class complet reduct algorithm effici
+22  | interest hidden line hidden surfac algorithm cylind toroid sphere cone special topic comput graphic
+23  | distribut comput structur algorithm
+24  | appli stochast process
+25  | perform evalu model comput system
+26  | concurr control mechan oper system
+27  | memori manag aspect oper system
+28  | inform packet radio network interest algorithm packet rout deal network topographi interest hardwar network
+29  | number theoret algorithm especi involv prime number seri siev chines remaind theorem
+30  | articl text format system includ system exampl nroff scribe bravo
+31  | find articl describ singular decomposit digit imag process applic includ find approxim origin imag restor imag subject nois articl subject andrew patterson outer product expans digit imag process american mathemat monthli vol andrew patterson
+32  | find articl describ graph algorithm base eigenvalu decomposit singular decomposit ajac matrix graph especi interest heurist algorithm graph color graph isomorph method
+33  | articl sensit eigenvalu decomposit real matric matric especi interest separ eigenspac distinct eigenvalu articl subject davi kahn rotat eigenvector permut siam numer analysi vol stewart error bound approxim invari subspac close linear oper siam numer analysi vol davi kahn stewart
+34  | interest isol root polynomi articl heindel acm vol find recent materi heindel
+35  | probabilist algorithm especi deal algebra symbol manipul exampl rabiin probabilist algorithm finit field siam waztch probabilist test polynomi ident siam rabin
+36  | fast algorithm context free languag recognit pars
+37  | articl describ relationship data type concurr type process synchron attempt process type correct messag pass system notion type messag check sender messag receiv treat bit stream type
+38  | type modul don want entir literatur abstract data type sure phrase avoid interest question check modul match context
+39  | type compat mean languag allow programm defin type want restrict extens languag allow definit abstract data type programm suppli definit oper
+40  | list articl deal data type languag pascal clu alphard russel ada algol el1 list languag referenc frequent paper languag catch languag interest type structur miss
+41  | theori distribut system databas subtop special interest includ reliabl fault toler distribut system atom distribut transact synchron algorithm resourc alloc lower bound model asynchron parallel system theori commun process protocol box yale station haven conn
+42  | comput perform evalu techniqu pattern recognit cluster la
+43  | analysi percept shape human comput shape descript shape recognit comput dimension shape measur circular shape match
+44  | textur analysi comput digit textur analysi textur synthesi percept textur
+45  | oper research model optim inform system perform includ fine tune decis secondari index select reorgan distribut databas
+46  | applic fuzzi subset theori cluster inform retriev problem includ perform evalu automat index consider
+47  | bayesian decis model optim inform retriev system perform includ stop rule determin user ceas scan output retriev search
+48  | comput scienc principl data structur numer method gener optim linear program algorithm includ issu khachian russian ellipsoid algorithm complex algorithm
+49  | role inform retriev knowledg base system expert system
+50  | parallel processor inform retriev
+51  | parallel processor page algorithm
+52  | model simul agricultur ecosystem
+53  | mathemat induct group theori integ modulo probabl binomi coeffici binomi theorem homomorph morphism transit relat relat matrix syracus univers link hall syracus
+54  | semant program languag includ abstract specif data type denot semant proof correct hoar dijkstra univers massachusett amherst ma
+55  | deal star height regular languag regular express regular event
+56  | articl relat algebra theori semigroup monoid studi automata regular languag
+57  | abstract articl backu program liber von neumann style function style algebra program cacm de millo lipton perli letter acm forum cacm backu de millo lipton perli
+58  | algorithm statist packag anova regress squar gener linear model system design capabl statist formula interest student test wilcoxon sign test multivari univari compon includ
+59  | dictionari construct access method fast retriev word lexic item morpholog relat inform hash index method appli english spell natur languag problem
+60  | hardwar softwar relat databas manag system databas packag back end comput special associ hardwar microcomput attach disk head thing rap relat network codasyl hierarch model system system im adaba total
+61  | inform retriev articl gerard salton cluster bibliograph coupl citat citat vector space model boolean search method invert feedback salton
+62  | result relat parallel complex theori pram uniform circuit
+63  | algorithm parallel comput especi comparison parallel sequenti algorithm
+64  | list articl el1 ecl el1 el don rememb
+
