@@ -38,33 +38,10 @@ for w in words:
 print(doc_words[:1000])
 
 # %% [markdown]
-# Hacemos lo mismo con querys_final.txt
+#  separamos todas las palabras (omitiendo vacías)
 
 # %%
-filename = "querys_trunc.txt"
-file = open(filename, 'rt',encoding='utf-8-sig')
-text = file.read()
-file.close()
-import re
-words = re.split(r"\n", text)
-query_words = ""
-i = 0
-for w in words:
-    split = re.split(r"\|", w)
-    if len(split) == 1:
-        continue
-    elif len(split) == 4:
-        #doc_data[i]['d_num'] = split[0]
-        query_words += split[2] + " "
-    query_words += split[1] + " "
-    i = i + 1
-print(query_words[:1000])
-
-# %% [markdown]
-# Unimos y separamos todas las palabras (omitiendo vacías)
-
-# %%
-all_words = [x for x in (doc_words + " " + query_words).split(" ") if x]
+all_words = [x for x in (doc_words).split(" ") if x]
 print(all_words[:100])
 print(str(len(all_words)))
 
@@ -134,5 +111,5 @@ with open('vocabulario_trunc.txt', 'w') as f:
 with open('vocabulario_reducido_trunc.txt', 'w') as f:
     f.write(reduced_voc)
     f.close()
-
+print(len(reduced_words))
 
