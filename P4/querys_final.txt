@@ -1,0 +1,65 @@
+1  | article exist deal tss time sharing system operating system ibm computer
+2  | interested article written prieve udo pooch prieve pooch
+3  | intermediate language construction multi targeted compiler tcoll
+4  | interested mechanism communicating disjoint process possibly exclusively distributed environment description complete mechanism implementation opposed theoretical work abstract problem remote procedure call message passing example interest
+5  | paper design implementation editing interface window manager command interpreter essential issue human interface design view improvement user efficiency effectiveness satisfaction
+6  | interested article robotics motion planning geometric combinatorial aspect interested dynamic arm motion
+7  | interested distributed algorithm concurrent program process communicate synchronize message passing area interest include fault tolerance technique understanding correctness algorithm
+8  | addressing scheme resource network resource addressing network operating system
+9  | security consideration local network network operating system distributed system
+10  | parallel language language parallel computation
+11  | setl high level language
+12  | portable operating system
+13  | code optimization space efficiency
+14  | find discussion optimal implementation sort algorithm database management application
+15  | find discussion horizontal microcode optimization special emphasis optimization loop global optimization
+16  | find description handling operating system based multiple process message passing
+17  | optimization intermediate machine code
+18  | language compiler parallel processor especially highly horizontal microcoded machine code compaction
+19  | parallel algorithm
+20  | graph theoretic algorithm applicable sparse matrix
+21  | computational complexity intractability class complete reduction algorithm efficiency
+22  | interested hidden line hidden surface algorithm cylinder toroid sphere cone specialized topic computer graphic
+23  | distributed computing structure algorithm
+24  | applied stochastic process
+25  | performance evaluation modelling computer system
+26  | concurrency control mechanism operating system
+27  | memory management aspect operating system
+28  | information packet radio network interest algorithm packet routing dealing network topography interested hardware network
+29  | number theoretic algorithm especially involving prime number series sieve chinese remainder theorem
+30  | article text formatting system including system example nroff scribe bravo
+31  | find article describing singular decomposition digital image processing application include finding approximation original image restoring image subject noise article subject andrew patterson outer product expansion digital image processing american mathematical monthly vol andrew patterson
+32  | find article describing graph algorithm based eigenvalue decomposition singular decomposition ajacency matrix graph especially interested heuristic algorithm graph coloring graph isomorphism method
+33  | article sensitivity eigenvalue decomposition real matrix matrix especially interested separation eigenspaces distinct eigenvalue article subject davis kahn rotation eigenvectors permutation siam numerical analysis vol stewart error bound approximate invariant subspace closed linear operator siam numerical analysis vol davis kahn stewart
+34  | interested isolation root polynomial article heindel acm vol find recent material heindel
+35  | probabilistic algorithm especially dealing algebraic symbolic manipulation example rabiin probabilistic algorithm finite field siam waztch probabilistic testing polynomial identity siam rabin
+36  | fast algorithm context free language recognition parsing
+37  | article describing relationship data type concurrency type process synchronization attempt process type correct message passing system notion type message check sender message receiver treating bit stream type
+38  | type module don want entire literature abstract data type sure phrase avoid interested question check module match context
+39  | type compatibility mean language allow programmer defined type want restrict extensible language allow definition abstract data type programmer supplied definition operator
+40  | list article dealing data type language pascal clu alphard russell ada algol el1 list language referenced frequently paper language catch language interesting type structure missed
+41  | theory distributed system database subtopics special interest include reliability fault tolerance distributed system atomicity distributed transaction synchronization algorithm resource allocation lower bound model asynchronous parallel system theory communicating process protocol box yale station haven conn
+42  | computer performance evaluation technique pattern recognition clustering la
+43  | analysis perception shape human computer shape description shape recognition computer dimensional shape measure circularity shape matching
+44  | texture analysis computer digitized texture analysis texture synthesis perception texture
+45  | operation research model optimize information system performance includes fine tuning decision secondary index selection reorganization distributed database
+46  | application fuzzy subset theory clustering information retrieval problem includes performance evaluation automatic indexing consideration
+47  | bayesian decision model optimize information retrieval system performance includes stopping rule determine user cease scanning output retrieval search
+48  | computer science principle data structure numerical method generating optimization linear programming algorithm includes issue khachian russian ellipsoidal algorithm complexity algorithm
+49  | role information retrieval knowledge based system expert system
+50  | parallel processor information retrieval
+51  | parallel processor paging algorithm
+52  | modelling simulation agricultural ecosystem
+53  | mathematical induction group theory integer modulo probability binomial coefficient binomial theorem homomorphism morphism transitivity relation relation matrix syracuse university link hall syracuse
+54  | semantics programming language including abstract specification data type denotational semantics proof correctness hoare dijkstra university massachusetts amherst ma
+55  | dealing star height regular language regular expression regular event
+56  | article relation algebraic theory semigroups monoids study automaton regular language
+57  | abstract article backus programming liberated von neumann style functional style algebra program cacm de millo lipton perlis letter acm forum cacm backus de millo lipton perlis
+58  | algorithm statistical package anova regression square generalized linear model system design capability statistical formula interest student test wilcoxon sign test multivariate univariate component included
+59  | dictionary construction accessing method fast retrieval word lexical item morphologically related information hashing indexing method applied english spelling natural language problem
+60  | hardware software relating database management system database package back end computer special associative hardware microcomputer attached disk head thing rap relational network codasyl hierarchical model system system ims adabas total
+61  | information retrieval article gerard salton clustering bibliographic coupling citation citation vector space model boolean search method inverted feedback salton
+62  | result relating parallel complexity theory pram uniform circuit
+63  | algorithm parallel computation especially comparison parallel sequential algorithm
+64  | list article el1 ecl el1 el don remember
+
