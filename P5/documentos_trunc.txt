@@ -3203,3 +3203,4 @@
 3203 | grad assist program symbol algebra manipul differenti | gener recur algebra differenti assist grad assist develop set lisp function symbol manipul abd differenti algebra express design problemm larg amount routin manipul program human interv grad recogn simplif extern guidanc complic express notabl involv nest radic trigonometr function yield complet present version prove | fletcher, j. g.
 3204 | line program non numer algebra | goal program make step te design autom mathemat assist requir program easi access result obtain reason short time program written time share comput comput system develop corpor santa monica california chosen lisp compil program debug remot teletyp consol stanford univ | korsvold, k.
 
+
